@@ -2,3 +2,4 @@ Alejandro Avendaño Serna
 24 años
 Espero desarrollar mi logica en programación para crecer profesionalmente
 Es importante tener cuidado al modificar dos o mas archivos al mismo tiempo porque podemos tener superposicioines y reiteraciones en nuestros proyectos
+Mi solucion fue mover el primer archivo de texto "merge" a otra localización

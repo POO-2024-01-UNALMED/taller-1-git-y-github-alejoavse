@@ -1,3 +1,4 @@
 Alejandro Avendaño Serna
 24 años
-Espero desarrolar mi logica en programación para crecer profesionalmente
+Espero desarrollar mi logica en programación para crecer profesionalmente
+Es importante tener cuidado al modificar dos o mas archivos al mismo tiempo porque podemos tener superposicioines y reiteraciones en nuestros proyectos
